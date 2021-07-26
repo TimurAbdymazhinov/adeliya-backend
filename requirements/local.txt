@@ -1,0 +1,4 @@
+-r base.txt
+ipython
+django-debug-toolbar==3.2
+coverage==5.5
